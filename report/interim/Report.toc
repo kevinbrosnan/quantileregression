@@ -1,0 +1,20 @@
+\contentsline {chapter}{\numberline {1}Introduction}{1}
+\contentsline {chapter}{\numberline {2}Analytical Background}{2}
+\contentsline {section}{\numberline {2.1}Quantiles}{2}
+\contentsline {section}{\numberline {2.2}Quantile Regression}{4}
+\contentsline {subsection}{\numberline {2.2.1}Frequentist Approach}{5}
+\contentsline {subsection}{\numberline {2.2.2}Bayesian Approach}{7}
+\contentsline {subsection}{\numberline {2.2.3}Linear Mixed Models Approach}{8}
+\contentsline {section}{\numberline {2.3}Implementation}{10}
+\contentsline {subsection}{\numberline {2.3.1}Frequentist Approach}{10}
+\contentsline {subsection}{\numberline {2.3.2}Bayesian Approach}{13}
+\contentsline {subsection}{\numberline {2.3.3}Linear Mixed Models Approach}{16}
+\contentsline {chapter}{\numberline {3}Next Steps}{19}
+\contentsline {section}{\numberline {3.1}Thyroid Data}{19}
+\contentsline {section}{\numberline {3.2}Non-overlapping Quantile Estimates}{20}
+\contentsline {chapter}{References}{22}
+\contentsline {chapter}{Appendix}{23}
+\contentsline {chapter}{\numberline {A}R code for Engel Data Example}{23}
+\contentsline {section}{\numberline {A.1}Quantreg Code}{23}
+\contentsline {section}{\numberline {A.2}BayesQR Code}{24}
+\contentsline {section}{\numberline {A.3}Lqmm Code}{26}

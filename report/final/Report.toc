@@ -1,0 +1,37 @@
+\contentsline {chapter}{\numberline {1}Introduction}{1}
+\contentsline {chapter}{\numberline {2}Analytical Background}{3}
+\contentsline {section}{\numberline {2.1}Quantiles}{3}
+\contentsline {section}{\numberline {2.2}Quantile Regression}{5}
+\contentsline {subsection}{\numberline {2.2.1}Frequentist Approach}{6}
+\contentsline {subsection}{\numberline {2.2.2}Bayesian Approach}{8}
+\contentsline {subsection}{\numberline {2.2.3}Linear Mixed Models Approach}{9}
+\contentsline {section}{\numberline {2.3}Implementation}{11}
+\contentsline {subsection}{\numberline {2.3.1}Frequentist Approach}{11}
+\contentsline {subsection}{\numberline {2.3.2}Bayesian Approach}{14}
+\contentsline {subsection}{\numberline {2.3.3}Linear Mixed Models Approach}{17}
+\contentsline {chapter}{\numberline {3}Regression Quantiles for Thyroid Data}{20}
+\contentsline {section}{\numberline {3.1}Thyroid Data}{20}
+\contentsline {section}{\numberline {3.2}Descriptive Statistics}{22}
+\contentsline {subsection}{\numberline {3.2.1}Distributions of variables}{22}
+\contentsline {subsection}{\numberline {3.2.2}Box-Cox Transformation}{24}
+\contentsline {section}{\numberline {3.3}Linear Quantile Models}{26}
+\contentsline {subsection}{\numberline {3.3.1}Free T4}{27}
+\contentsline {subsection}{\numberline {3.3.2}Free T3}{28}
+\contentsline {subsection}{\numberline {3.3.3}TSH}{29}
+\contentsline {chapter}{\numberline {4}Non-crossing Quantile Estimates}{30}
+\contentsline {section}{\numberline {4.1}Theory behind Proposed Solution}{30}
+\contentsline {section}{\numberline {4.2}Implementation of Proposed Solution in R}{32}
+\contentsline {section}{\numberline {4.3}Application to thyroid data}{34}
+\contentsline {chapter}{References}{37}
+\contentsline {chapter}{Appendix}{39}
+\contentsline {chapter}{\numberline {A}R code for Engel Data Example}{39}
+\contentsline {section}{\numberline {A.1}Quantreg Code}{39}
+\contentsline {section}{\numberline {A.2}BayesQR Code}{40}
+\contentsline {section}{\numberline {A.3}Lqmm Code}{42}
+\contentsline {chapter}{\numberline {B}R Code for Chapter 3}{44}
+\contentsline {section}{\numberline {B.1}Distributions}{44}
+\contentsline {section}{\numberline {B.2}Box-Cox}{45}
+\contentsline {section}{\numberline {B.3}Linear Quantile Models}{49}
+\contentsline {chapter}{\numberline {C}Non-Crossing Quantiles}{52}
+\contentsline {section}{\numberline {C.1}QR Function Code}{52}
+\contentsline {section}{\numberline {C.2}Quantile Models}{58}

@@ -1,0 +1,91 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\citeauthoryear{Abalovich, Amino, Barbour, Cobin, De~Groot,
+  and Glinoer}{Abalovich et~al.}{2007}]{Thyroid-Facts}
+Abalovich, M., N.~Amino, L.~Barbour, R.~Cobin, L.~De~Groot, and D.~Glinoer
+  (2007, August).
+\newblock Management of thyroid dysfunction during pregnancy and postpartum: an
+  endocrine society clinical practice guideline.
+\newblock {\em The Journal of Clinical Endocrinology and Metabolism\/}.
+
+\bibitem[\protect\citeauthoryear{Barrodale and Roberts}{Barrodale and
+  Roberts}{1974}]{BR1974}
+Barrodale, I. and F.~Roberts (1974).
+\newblock Solution of an overdetermined system of equations in the $\ell$1
+  norm.
+\newblock {\em Communications of the ACM\/}~(17), 319--320.
+
+\bibitem[\protect\citeauthoryear{Benoit, Al-Hamzawi, Yu, and Van~den
+  Poel}{Benoit et~al.}{2013}]{R-bayesQR}
+Benoit, D.~F., R.~Al-Hamzawi, K.~Yu, and D.~Van~den Poel (2013).
+\newblock {\em bayesQR: Bayesian quantile regression}.
+\newblock R package version 2.1.
+
+\bibitem[\protect\citeauthoryear{Box and Cox}{Box and Cox}{1964}]{BoxCox1964}
+Box, G. and D.~Cox (1964).
+\newblock An analysis of transformations.
+\newblock {\em Journal of the Royal Statistical Society\/}~{\em 26}, 211--252.
+
+\bibitem[\protect\citeauthoryear{Cotzias, Wong, Taylor, Seed, and
+  Girling}{Cotzias et~al.}{2008}]{Cotzias2008}
+Cotzias, C., S.~Wong, E.~Taylor, P.~Seed, and J.~Girling (2008).
+\newblock A study to establish gestation-specific reference intervals for
+  thyroid function tests in normal singleton pregnancy.
+\newblock {\em Eur J Obstet Gynecol Reprod Biol.\/}, 137:61--6.
+
+\bibitem[\protect\citeauthoryear{Geraci}{Geraci}{2012}]{R-lqmm}
+Geraci, M. (2012).
+\newblock {\em lqmm: Linear Quantile Mixed Models}.
+\newblock R package version 1.02.
+
+\bibitem[\protect\citeauthoryear{Geraci and Bottai}{Geraci and
+  Bottai}{2013}]{lqmm}
+Geraci, M. and M.~Bottai (2013).
+\newblock Linear quantile mixed models.
+\newblock {\em Statistics and Computing\/}.
+
+\bibitem[\protect\citeauthoryear{Koenker}{Koenker}{1994}]{RK1994}
+Koenker, R. (1994).
+\newblock Confidence intervals for regression quantiles.
+\newblock {\em Asymptotic Statistics\/}, 349--359.
+
+\bibitem[\protect\citeauthoryear{Koenker}{Koenker}{2000}]{QR-Intro}
+Koenker, R. (2000, October).
+\newblock Quantile regression.
+\newblock {\em International Encyclopedia of the Social Sciences\/}.
+
+\bibitem[\protect\citeauthoryear{Koenker}{Koenker}{2013}]{R-quantreg}
+Koenker, R. (2013).
+\newblock {\em quantreg: Quantile Regression}.
+\newblock R package version 5.05.
+
+\bibitem[\protect\citeauthoryear{Koenker and d'Orey}{Koenker and
+  d'Orey}{1987}]{KdO1987}
+Koenker, R. and V.~d'Orey (1987).
+\newblock Computing regression quantiles.
+\newblock {\em Applied Statistics\/}~(36), 383--393.
+
+\bibitem[\protect\citeauthoryear{Koenker and Portnoy}{Koenker and
+  Portnoy}{1997}]{Frisch-Newton}
+Koenker, R. and S.~Portnoy (1997).
+\newblock The gaussian hare and the laplacian tortoise.
+\newblock {\em Statistical Science\/}~(12), 279--300.
+
+\bibitem[\protect\citeauthoryear{Mosteller and Tukey}{Mosteller and
+  Tukey}{1977}]{Motivation}
+Mosteller, F. and J.~Tukey (1977).
+\newblock {\em Data Analysis and Regression: a second course in statistics}.
+\newblock Addison-Wesley.
+
+\bibitem[\protect\citeauthoryear{{R Core Team}}{{R Core Team}}{2013}]{R}
+{R Core Team} (2013).
+\newblock {\em R: A Language and Environment for Statistical Computing}.
+\newblock Vienna, Austria: R Foundation for Statistical Computing.
+\newblock {ISBN} 3-900051-07-0.
+
+\bibitem[\protect\citeauthoryear{Sakia}{Sakia}{1992}]{BoxCoxReview}
+Sakia, R. (1992).
+\newblock The box-cox transformation technique: a review.
+\newblock {\em The Statistician\/}~{\em 41}, 169--178.
+
+\end{thebibliography}
