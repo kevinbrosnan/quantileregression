@@ -1,0 +1,12 @@
+\beamer@endinputifotherversion {3.36pt}
+\beamer@sectionintoc {1}{Table of Contents}{2}{0}{1}
+\beamer@sectionintoc {2}{Intro to QR}{3}{0}{2}
+\beamer@sectionintoc {3}{Thyroid Disease}{7}{0}{3}
+\beamer@sectionintoc {4}{Existing Methods}{10}{0}{4}
+\beamer@subsectionintoc {4}{1}{Theory}{11}{0}{4}
+\beamer@subsectionintoc {4}{2}{Application}{12}{0}{4}
+\beamer@sectionintoc {5}{Proposed Solution}{15}{0}{5}
+\beamer@subsectionintoc {5}{1}{Theory}{16}{0}{5}
+\beamer@subsectionintoc {5}{2}{Application}{18}{0}{5}
+\beamer@sectionintoc {6}{Conclusions}{24}{0}{6}
+\beamer@sectionintoc {7}{Q\&A}{27}{0}{7}
