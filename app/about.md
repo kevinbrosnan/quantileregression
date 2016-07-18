@@ -13,7 +13,7 @@ Full source code is available from the <a href="https://github.com/significantst
 
 * <a href="http://cran.r-project.org/web/packages/shiny" target="_blank_">shiny</a>: Chang, W., Cheng J., Allaire, J.J., Xie, Y. & McPherson, J. (2013). shiny: Web Application Framework for R. R package version 0.11.1
 * <a href="http://cran.r-project.org/web/packages/shinydashboard" target="_blank_">shinydashboard</a>:Chang, W. (2015). shinydashboard: Create Dashboards with Shiny. R package version 0.5.1
-* <a href="http://cran.r-project.org/web/packages/retimes" target="_blank_">retimes</a>: Massidda, D. (2013). retimes: Reaction Time Analysis. R package version 0.1.2
+* <a href="http://cran.r-project.org/web/packages/quantreg" target="_blank_">quantreg</a>: Koenker, R. et al. (2016). quantreg: Quantile Regression. R package version 5.26
 * <a href="http://rstudio.github.io/DT" target="_blank_">DT</a>: Xie, Y. (2015). DT: A Wrapper of the JavaScript Library 'DataTables'. R package version 0.1.57
-* <a href="http://cran.r-project.org/web/packages/lattice" target="_blank_">lattice</a>: Sarkar, D. (2008). Lattice: Multivariate Data Visualisation with R. Springer, New York. ISBN 978-0-387-75968-5
-* <a href="http://cran.r-project.org/web/packages/markdown" target="_blank_">markdown</a>: Allaire, J.J., Horner, J., Marti, V. & Porte, N. (2015). markdown: Markdown rendering for R. R package version 0.7.4
+* <a href="http://cran.r-project.org/web/packages/bayesQR" target="_blank_">bayesQR</a>: Benoit, D.F., Al-Hamzawi, R., Yu, K. & Van den Poel, D.. (2014). bayesQR: Bayesian quantile regression. R package version 2.2
+* <a href="http://cran.r-project.org/web/packages/lqmm" target="_blank_">lqmm</a>: Geraci, M. (2016). lqmm: Linear Quantile Mixed Models. R package version 1.5.3
